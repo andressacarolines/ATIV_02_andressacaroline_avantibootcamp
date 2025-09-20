@@ -8,3 +8,5 @@ análise de dados.
 Conteúdo: Módulo 1 e 2.
 
 Participantes: Andressa Caroline da Rocha Pereira
+
+A atividade foi desenvolvida pelo Colab
